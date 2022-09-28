@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>¡ACERCA DEL COVID-19!-Test</title>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <div class="form-wrapper">
+	<h2>Tes Covid-19</h2>
+
+	<form action="php/alta_test.php" method="POST">
+        <h4>1.- ¿Se encuentra vacunado(a)?</h4>
+        <input type="radio" name="vacuna" value="Si, ya me vacuné.">Si, ya me vacuné.<br>
+        <input type="radio" name="vacuna" value="No, pero lo haré.">No, pero lo haré.<br>
+        <input type="radio" name="vacuna" value="No y no lo haré.">No y no lo haré.<br>
+
+        <h4>2.- ¿Qué piensa usted sobre las vacunas?</h4>
+        <input type="radio" name="opi_vacuna"  value="Nos mantienen seguro.">Nos mantienen seguro.<br>
+        <input type="radio" name="opi_vacuna"  value="Miedo a la reacción.">Miedo a la reacción.<br>
+        <input type="radio" name="opi_vacuna"  value="No son necesarias.">No son necesarias.<br>
+
+        <h4>3.- Al salir, ¿Usa de forma correcta su cubrebocas?</h4>
+        <input type="radio" name="cubrebocas" value="Si, correctamente.">Si, correctamente.<br>
+        <input type="radio" name="cubrebocas" value="Salgo sin cubrebocas.">Salgo sin cubrebocas.<br>
+        <input type="radio" name="cubrebocas" value="No porque ya me vacune.">No porque ya me vacune.<br>
+
+        <h4>4.- Cuando ocupa salir y tiene niños pequeños, ¿lo lleva con usted?</h4>
+        <input type="radio" name="llev_niño" value="No tengo niños pequeños.">No tengo niños pequeños.<br>
+        <input type="radio" name="llev_niño" value="Si, no tengo con quien dejarlo.">Si, no tengo con quien dejarlo.<br>
+        <input type="radio" name="llev_niño" value="No, se quedan en casa.">No, se quedan en casa.<br>
+
+        <h4>5.- ¿Sigue las medidas de sanitización en su hogar?</h4>
+        <input type="radio" name="casa_limp" value="Si, todo limpio y desinfectado.">Si, todo limpio y desinfectado.<br>
+        <input type="radio" name="casa_limp" value="No, no lo necesito.">No, no lo necesito.<br>
+        <input type="radio" name="casa_limp" value="De vez en cuando.">De vez en cuando.<br>
+
+        <h4>6.- ¿Algún familiar contrajo esta enfermedad o la tuvo?</h4>
+        <input type="radio" name="cont_enferme" value="Si, en estos momentos la tiene.">Si, en estos momentos la tiene.<br>
+        <input type="radio" name="cont_enferme" value="No, ninguno la ha contraido.">No, ninguno la ha contraido.<br>
+        <input type="radio" name="cont_enferme" value="Si, antes lo tuvo.">Si, antes lo tuvo.<br>
+
+        <h4>7.- Durante la pandemia, ¿Usted estuvo saliendo?</h4>
+        <input type="radio" name="estuv_saliend" value="Si, tenía que trabajar.">Si, tenía que trabajar.<br>
+        <input type="radio" name="estuv_saliend" value="No, permanecí en mi hogar.">No, permanecí en mi hogar.<br>
+        <input type="radio" name="estuv_saliend" value="Un familiar estuvo saliendo por necesidad.">Un familiar estuvo saliendo por necesidad.<br>
+
+        <h4>8.- Usted, ¿Se hace pruebas constantes para saber si tiene COVID-19</h4>
+        <input type="radio" name="prueb_covid" value="Si, cada que puedo me lo hago.">Si, cada que puedo me lo hago.<br>
+        <input type="radio" name="prueb_covid" value="No, nunca me lo hago.">No, nunca me lo hago.<br>
+        <input type="radio" name="prueb_covid" value="No, no cuento con la forma de hacerlo.">No, no cuento con la forma de hacerlo.<br>
+
+        <h4>9.- A causa de la contingencia ¿a tenido problemas en su trabajo?</h4>
+        <input type="radio" name="prob_trabaj" value="Si, me despidieron.">Si, me despidieron.<br>
+        <input type="radio" name="prob_trabaj" value="Ningún problema.">Ningún problema.<br>
+        <input type="radio" name="prob_trabaj" value="No trabajo.">No trabajo.<br>
+
+        <h4>10.- ¿Le sirvió la información que se le otorgo?</h4>
+        <input type="radio" name="test_ayuda" value="Si, algo.">Si, algo.<br>
+        <input type="radio" name="test_ayuda" value="Demasiado.">Demasiado.<br>
+        <input type="radio" name="test_ayuda" value="ni mucho ni poco.">ni mucho ni poco.<br>
+
+        <button type="submit" name="save">Submit</button>
+
+    </form>
+
+	
+
+
+
+		
+	
+
+
+
+
+</div> <!-- .form-wrapper -->
+  
+    <script src="js/index.js"></script>
+
+</body>
+</html>
