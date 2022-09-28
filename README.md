@@ -4,6 +4,7 @@ Proyecto final para el curso de "aplicaicones con bases de datos". - El proyecto
 Link del proyecto ya subido a un host gratuito : http://acerca-del-covid19.infinityfreeapp.com/
 
 -----Usuarios con sus contraseñas existentes--------(tambien se puede crear uno propio) : 
+
 1:
 Administrador
 password
