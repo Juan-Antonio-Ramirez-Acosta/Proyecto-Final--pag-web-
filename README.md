@@ -41,4 +41,6 @@ Pedrito09_mm / contraseña
 12:
 jonny _93 / 123456
 
-Nota: si se quieren quieren usar los usuarios y contraseñas en el host de prueba del enlace dejado para testear el sistema, hay que remplazar la "ñ" por "n" y las letras con acento por letras normales por ejemplo "á" se remplazaria por "a", esto es debido a que el host tiene limitaciones ya que es gratuito, y la finalidad de este es ya mostrar el sistema como deberia quedar asi que tener este dato muy en cuenta , sin embargo al montar el sistema en la computadora mediante un sistema de gestion de base de datos no dara este problema que se menciona acerca del host y funcionara correctamente como debe ser.
+Nota: si se quieren quieren usar los usuarios y contraseñas en el host de prueba del enlace dejado para testear el sistema, hay que remplazar la "ñ" por "n" y las letras con acento por letras normales por ejemplo: "á" se remplazaria por "a", esto es debido a que el host tiene limitaciones ya que es gratuito, y la finalidad de este es ya mostrar el sistema como deberia quedar asi que tener este dato muy en cuenta , sin embargo al montar el sistema en la computadora mediante un sistema de gestion de base de datos no dara este problema que se menciona acerca del host y funcionara correctamente como debe ser.
+
+gracias por leer este archivo.
