@@ -3,52 +3,40 @@ Proyecto final para el curso de "aplicaicones con bases de datos". - El proyecto
 
 Link del proyecto ya subido a un host gratuito : http://acerca-del-covid19.infinityfreeapp.com/
 
------Usuarios con sus contraseñas existentes--------(tambien se puede crear uno propio) : 
+-----Usuarios/contraseñas existentes--------(tambien se puede crear uno propio) : 
 
 1:
-Administrador
-password
+Administrador / password
 
 2:
-Marcos981
-contraseña
+Marcos981 / contraseña
 
 3:
-Blue_Bird
-pajaroazul
+Blue_Bird / pajaroazul
 	
 4:
-Mary82jm
-password82
+Mary82jm / password82
 	
 5:
-Jonnie_D95
-123456
+Jonnie_D95 / 123456
 
 6:
-Anita_LR
-456123
+Anita_LR / 456123
 	
 7:
-Luisita_mt
-789456
+Luisita_mt / 789456
 	
 8:
-Moli_JC
-000000
+Moli_JC / 000000
 	
 9:
-Beto_bar21
-111111
+Beto_bar21 / 111111
 	
 10:
-Ernest_di_Oca
-741258963
+Ernest_di_Oca / 741258963
 	
 11:
-Pedrito09_mm
-contraseña
+Pedrito09_mm / contraseña
 	
 12:
-jonny _93
-123456
+jonny _93 / 123456
