@@ -1,5 +1,6 @@
 # Proyecto-Final--pag-web-
 Proyecto final para el curso de "aplicaicones con bases de datos". - El proyecto es sobre un sistema de login de usuarios que provee información acerca del tema y también recopila información  y la almacena en base de datos y grafica las opiniones y respuestas de los usuarios además de contar con sección de comentarios y un perfil donde se puede visualizar las respuestas y comentarios hechos por el usuario.
+
 Link del proyecto ya subido a un host gratuito : http://acerca-del-covid19.infinityfreeapp.com/
 
 -----Usuarios con sus contraseñas existentes--------(tambien se puede crear uno propio) : 
